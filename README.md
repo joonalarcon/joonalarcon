@@ -41,7 +41,7 @@ Siempre estoy buscando formas de contribuir, aprender y crecer dentro de la comu
 
 ### 📈 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joonalarcon&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joonalarcon&layout=compact&theme=dark)
 
 ---
 
