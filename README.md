@@ -1,6 +1,6 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hola,%20soy%20Jonathan%20👋&fontSize=40&fontAlign=center)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hola,%20Jonathan%20por%20aqui%20👋&fontSize=40&fontAlign=center)
 
-### 👋 ¡Hola! Soy Jonathan
+
 
 Soy un desarrollador **fullstack junior** apasionado por el aprendizaje continuo.  
 Actualmente me enfoco en mejorar mis habilidades con **JavaScript** y **TypeScript**, tanto en el frontend como en el backend.  
