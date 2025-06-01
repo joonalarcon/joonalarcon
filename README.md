@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hola,%20Jonathan%20por%20aquí%20👋&fontSize=40&fontAlign=center)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi!%20Jonathan%20Here!%20👋&fontSize=40&fontAlign=center)
 
 
 
