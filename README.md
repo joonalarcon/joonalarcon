@@ -37,15 +37,7 @@ Siempre estoy buscando formas de contribuir, aprender y crecer dentro de la comu
 
 
 
----
-
-### 📈 Actividad reciente
-
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=joonalarcon&theme=dracula)
-
-### 🧮 Estadísticas de GitHub
-
-![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=joonalarcon&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joonalarcon&layout=compact&theme=dracula)
 
 
 ### 📫 Contacto
